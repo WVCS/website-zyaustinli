@@ -21,3 +21,11 @@ li a {
   text-decoration: none;
  
 }
+
+h2 {
+  color: #FFFFFF;
+  background-color: #F9B5AC;
+  text-shadow: 2px 2px black;
+  font-size: 200%;
+  letter-spacing: 3px;
+}
